@@ -13,7 +13,10 @@ Documentation
 
 [Sikuli Screenshot Guide](https://github.com/ministryofjustice/robot-framework-test-ccms/blob/main/Sikuli-Screenshot-Guide.md)
 
-[AutoIt Library Keywords](C:\RobotFramework\Extensions\AutoItLibrary\AutoItLibrary.html)
+AutoIt Library Keywords: C:\RobotFramework\Extensions\AutoItLibrary\AutoItLibrary.html
+
+How to run
+=====
 
 Run hello world example:
 
