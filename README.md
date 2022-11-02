@@ -3,9 +3,7 @@ A space to play with robot framework.
 Documentation
 ====
 
-[Process Library Keywords](https://robotframework.org/robotframework/latest/libraries/Process.html)
-
-[BuiltIn Library Keywords](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html)
+[Robot Core Libraries Keywords](https://robotframework.org/robotframework/)
 
 [Sikuli Library Keywords](https://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html)
 
