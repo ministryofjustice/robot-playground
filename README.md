@@ -3,9 +3,9 @@ A space to play with robot framework.
 Documentation
 ====
 
-[Robot Core Libraries Keywords](https://robotframework.org/robotframework/)
+[Robot Core Libraries Keywords Guide](https://robotframework.org/robotframework/)
 
-[Sikuli Library Keywords](https://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html)
+[Sikuli Library Keywords Guide](https://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html)
 
 [Sikuli Special Key Constants](http://doc.sikuli.org/keys.html)
 
