@@ -11,6 +11,8 @@ Documentation
 
 [Sikuli Screenshot Guide](https://github.com/ministryofjustice/robot-framework-test-ccms/blob/main/Sikuli-Screenshot-Guide.md)
 
+[AutoIt Special Keys](https://www.autoitscript.com/autoit3/docs/functions/Send.htm)
+
 AutoIt Library Keywords: C:\RobotFramework\Extensions\AutoItLibrary\AutoItLibrary.html
 
 How to run
